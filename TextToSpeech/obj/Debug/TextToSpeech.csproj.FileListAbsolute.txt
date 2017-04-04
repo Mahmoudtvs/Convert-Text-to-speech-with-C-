@@ -1,0 +1,9 @@
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+c:\users\joker\documents\visual studio 2013\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
